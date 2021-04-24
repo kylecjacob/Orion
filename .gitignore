@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+/Orion/debug
+/Orion/Orion/debug
+/Orion/.vs
